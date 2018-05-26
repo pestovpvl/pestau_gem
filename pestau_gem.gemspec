@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["pestovpvl"]
   spec.email         = ["pestovpvl@mail.ru"]
 
-  spec.summary       = %q{Generate copywrite simbol.}
+  spec.summary       = %q{Generate copywrite info.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
   spec.homepage      = "http://codebypasha.com"
   spec.license       = "MIT"

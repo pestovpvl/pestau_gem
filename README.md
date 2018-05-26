@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Pestau::Renderer.copyright 'Pavel Pestau', 'All right reserved'
+```
+
 
 ## Development
 
